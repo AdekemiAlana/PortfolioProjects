@@ -1,4 +1,4 @@
-4Select *
+Select *
 From PortfolioProject.dbo.CovidDeaths
 where continent is not null
 Order by 3,4
